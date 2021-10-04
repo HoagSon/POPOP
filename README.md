@@ -1,1 +1,1 @@
-# POPOP
+# POPOP algorithm
